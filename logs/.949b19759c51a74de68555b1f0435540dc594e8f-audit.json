@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/alexserrano/Documents/Projects/jutge/mean-judge/logs/.949b19759c51a74de68555b1f0435540dc594e8f-audit.json",
+    "files": [
+        {
+            "date": 1663434991601,
+            "name": "/Users/alexserrano/Documents/Projects/jutge/mean-judge/logs/application-2022-09-17-19-info.log",
+            "hash": "3d86317bf075135718cad9076e423bc5"
+        },
+        {
+            "date": 1664125778811,
+            "name": "/Users/alexserrano/Documents/Projects/jutge/mean-judge/logs/application-2022-09-25-19-info.log",
+            "hash": "2cb4e9cc17bc9e4a266c0ca1e645f50c"
+        }
+    ]
+}
